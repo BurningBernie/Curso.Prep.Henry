@@ -1,0 +1,21 @@
+For:
+
+Es un Bucle compuesto de tres partes, una inicial donde se define una variable,
+la siguiente parte se ingresa un condicional que será quien delimite hasta
+dónde debe correr el proceso, y la última parte es un incremental.
+
+&&:
+
+Es el equivalente en lógica a la palabra "y", para que un argumento sea verdadero
+por completo tanto lo que antecede a "y" como lo que precede deben ser verdaderos.
+Con que uno solo de los componentes del argumentos sea falso
+hace que todo el argumento lo sea.
+
+||:
+
+Es el equivalente a "o", para que arroje verdadero basta con que uno solo de
+sus componentes sea verdadero. Para que sea falso es necesario que todos
+los componenetes del argumento sean falsos.
+
+!:
+Representa la negación o el opuesto a lo que anteceda.
