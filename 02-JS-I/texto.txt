@@ -1,0 +1,26 @@
+Variable:
+
+Una variable es decirle al intérprete que de 
+ahora en más una palabra pasará a tener
+un valor ya sea numérico o alfanumérico y cada
+vez que se invoque esta palabra estaremos invocando
+este nuevo valor asignado anteriormente.
+
+String:
+
+Hilo de caractéres, sin valor, pueden ser tanto núemros
+como letras.
+
+Funciones:
+
+Es la manera de hacer interactuar a las variables
+entre sí para obtener resultados.
+
+Declaraciones:
+
+Dice cosas de Return, que después de escribir Return
+el intérpreste deja de leer el código.
+
+Valores booleanos.
+
+Pueden ser solo dos, True o False.
